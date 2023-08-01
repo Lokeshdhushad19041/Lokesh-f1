@@ -4,4 +4,9 @@ git commit
 git status 
 git log
 git recover
+git log --oneline
+git log --pretty
+git log --oneline --pretty
+git config --global user.email
+git config --global user.name
 
